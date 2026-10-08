@@ -15,3 +15,13 @@
   - IT Essentials (COMP 1151) 1pm-3pm
   - Math For Computer Technology 1 (MATH 1162) 3:30pm-5:30pm
   - Introduction To Web Development (COMP1234) 6pm-8pm
+ 
+- Wednesday
+  - Introduction To Web Development (COMP1234) 5pm-7pm
+
+- Thursday
+  - Math For Computer Technology 1 (MATH 1162) 10am-12pm
+  - Fundamentals Of Computing Logic (COMP 1236) 12pm-2pm
+
+- Friday
+  - Introduction To Data Management (COMP 1238) 12pm-1pm 
